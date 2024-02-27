@@ -1,6 +1,6 @@
 **Weather Application Description**
 
-@Author:Ouasli Oumaima
+@Author: Ouasli Oumaima
 
 
 Welcome to our Moroccan weather application! 
