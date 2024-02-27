@@ -1,0 +1,36 @@
+body {
+    background-image: url("./maroc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.region {
+    padding: 6px 6px;
+    border-radius: 5px;
+    border: 5px solid orange;
+    margin-right: 5px; 
+}
+
+.submit {
+    border-radius: 5px;
+    border: 5px solid violet;
+    font-size: medium;
+    font-family: Arial;
+    cursor: pointer;
+    font-weight: bold;
+    margin-right: 50px;
+}
