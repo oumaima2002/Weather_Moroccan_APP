@@ -1,6 +1,8 @@
 **Weather Application Description**
 
 @Author:Ouasli Oumaima
+
+
 Welcome to our Moroccan weather application! 
 Our app provides  a simple service for the user to kknow the latest data weather information to different regions of Morocco.
 It checks the temperature anf the  weather state  of every region in Morocco.
